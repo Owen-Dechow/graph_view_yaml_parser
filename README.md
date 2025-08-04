@@ -1,5 +1,5 @@
 # graph_view_yaml_parser
-YAML parser plugin for Neovim for use with https://github.com/Owen-Dechow/nvim_json_graph_view
+YAML parser plugin for Neovim for use with https://github.com/Owen-Dechow/videre.nvim
 
 ## Credit
 * `Owen-Dechow/graph_view_yaml_parser` was forked from [api7/lua-tinyyaml](https://github.com/api7/lua-tinyyaml).
